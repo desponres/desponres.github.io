@@ -27,26 +27,13 @@ twitter_username: desponres
 github_username:  desponres
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-paginate-v2
-  - jekyll-timeago
-pagination:
-  enabled: true
-  per_page: 6
-  permalink: '/sayfa/:num/'
-  title: ' - sayfa :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-jekyll_timeago:
-  depth: 2
-  translations_path: '/_translation/*.yml'
-  default_locale: 'tr'
-  available_locales:
-  - 'tr'
-  - 'en'
+  - jekyll-paginate
+
+#Show 6 posts each page 
+paginate: 6
+paginate_path: "/sayfa/:num/"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

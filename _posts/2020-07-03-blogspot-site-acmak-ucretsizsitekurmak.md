@@ -15,4 +15,5 @@ tags:
   - Ücretsiz Site
 ---
 Merhaba arkadaşlar, bu yazımda sizlere Google'ın ücretsiz olan blogspot servisini kullanarak nasıl ücretsiz bir blog açabilirsiniz onu göstereceğim. Gerekli linkler videonun açıklama kısmında verdim, videoyu beğendiyseniz kanalıma abone olabilirsiniz.
+
 <iframe src="https://www.youtube.com/embed/cfYMQn3-VkI" width="100%" height="450"></iframe>
