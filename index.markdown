@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: index
-locale: 'tr'
-pagination: 
-  enabled: true
+#locale: 'tr'
+#pagination: 
+  #enabled: true
 ---
