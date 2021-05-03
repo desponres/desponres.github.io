@@ -4,6 +4,7 @@ date: 2020-07-03T21:19:35
 author: Burak Dündar
 layout: post
 permalink: /blogspot-site-acmak-ucretsizsitekurmak/
+published: true
 categories:
   - Blogspot
   - CMS
