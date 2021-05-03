@@ -46,11 +46,10 @@
                             <p class="card-text">{{ post.excerpt | strip_html | truncatewords: 200 }}</p>
                             <a href="{{post.url}}" class="btn btn-dark btn-more">Devamını oku <i class="fas fa-angle-double-right"></i></a>
                         </div>
-                        <div class="card-footer text-muted"><strong>{{post.date | timeago}}</strong></div>
+                        <div class="card-footer text-muted"><strong>{{post.date}}</strong></div>
                     </div>
                 </div>
                 {% endfor %}
-                {% include pagination.html %}
             </div>
         </div>
     </div>
