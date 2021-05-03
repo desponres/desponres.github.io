@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="index, follow" />
+        <meta property="og:locale" content="tr_TR">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="{{site.title}}">
+        <meta property="og:description" content="{{site.description}}">
+        <meta property="og:url" content="{{site.url}}">
+        <meta property="og:site_name" content="{{site.title}}">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="{{site.title}}">
+        <meta name="twitter:description" content="{{site.description}}">
+        <meta name="twitter:site" content="@desponres">
+        <meta name="google-site-verification" content="KFP84Yk9Qjy6Su6OyI2mgnVrCLCRqMm3Z-R86Uc88iU" />
+        <meta name="msvalidate.01" content="F387732A17682B93C2BD03F7D2AAA01F" />
+        <meta name="yandex-verification" content="aa4b183f760b9303" />
+        {% include header.html %}
+        <title>{{site.title}} - {{site.description}}</title>
+    </head>
+    <body>
+    {% include navbar.html %}
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-3 d-lg-block d-xl-block d-none d-sm-none d-sm-none sidebar">
+                <div class="col-12">
+                    <img class="img-fluid profile-img" src="/assets/images/bdundar.jpg">
+                    <div class="name"><p>{{site.title}}</p></div>
+                    <div class="bio">
+                        <p>{{site.description}}</p>
+                    </div>
+                    <div class="social-media">
+                        {% include social-media.html %}
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-xl-9 col-lg-9 col-md-12 col-sm-12">
+                {% for post in paginator.posts %}
+                <div class="col-12">
+                    <div class="card mb-4">
+                        <div class="card-body">
+                            <h4 class="card-title">{{post.title}}</h4>
+                            <hr>
+                            <p class="card-text">{{ post.excerpt | strip_html | truncatewords: 200 }}</p>
+                            <a href="{{post.url}}" class="btn btn-dark btn-more">Devamını oku <i class="fas fa-angle-double-right"></i></a>
+                        </div>
+                        <div class="card-footer text-muted"><strong>{{post.date | timeago}} paylaşıldı</strong></div>
+                    </div>
+                </div>
+                {% endfor %}
+                {% include pagination.html %}
+            </div>
+        </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

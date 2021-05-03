@@ -1,0 +1,43 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+a {
+    text-decoration:none;
+    color:#c0392b;
+}
+a:hover {
+    color:#d35400;
+}
+.nav li a:hover {
+    text-decoration:underline;
+}
+.col-3 .img-fluid.profile-img {
+    border-radius:5px;
+    margin: 0 auto 20px auto;
+}
+.col-12 .card .btn-more:hover {
+    background:#c0392b;
+    border-color:#c0392b;
+}
+.col-3 .name{
+    font-weight:bold;
+    font-size:20px;
+}
+.col-3 .social-media i {
+    color:#242424;
+    margin: 0 10px 0 0;
+}
+.col-3 .social-media i:hover {
+    color:#c0392b;
+}
+.img-fluid {
+    border-radius:5px;
+}
+.pagination li a {
+    background:#c0392b;
+    color:#fff;
+}
+.pagination li a:hover {
+    background:#d35400;
+    color:#fff;
+}

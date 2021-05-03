@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav li a:hover{
+    text-decoration:underline;
+}
+.col-3 .img-fluid.profile-img {
+    border-radius:5px;
+    margin: 0 auto 20px auto;
+}
+.col-3 .name{
+    font-weight:bold;
+    font-size:20px;
+}
+.col-3 .social-media i{
+    color:#242424;
+    margin: 0 10px 0 0;
+}

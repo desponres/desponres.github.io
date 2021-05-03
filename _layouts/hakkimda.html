@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="index, follow" />
+        <meta property="og:locale" content="tr_TR">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="{{page.title}} | {{site.title}}">
+        <meta property="og:description" content="{{site.description}}">
+        <meta property="og:url" content="{{site.url}}">
+        <meta property="og:site_name" content="{{page.title}} | {{site.title}}">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="{{page.title}} | {{site.title}}">
+        <meta name="twitter:description" content="{{site.description}}">
+        <meta name="twitter:site" content="@desponres">
+        <meta name="google-site-verification" content="KFP84Yk9Qjy6Su6OyI2mgnVrCLCRqMm3Z-R86Uc88iU" />
+        <meta name="msvalidate.01" content="F387732A17682B93C2BD03F7D2AAA01F" />
+        <meta name="yandex-verification" content="aa4b183f760b9303" />
+        {% include header.html %}
+        <title>{{page.title}} | {{site.title}} - {{site.description}}</title>
+    </head>
+    <body>
+    {% include navbar.html %}
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-3 d-lg-block d-xl-block d-none d-sm-none d-sm-none sidebar">
+                <div class="col-12">
+                    <img class="img-fluid profile-img" src="/assets/images/bdundar.jpg">
+                    <div class="name"><p>{{site.title}}</p></div>
+                    <div class="bio">
+                        <p>{{site.description}}</p>
+                    </div>
+                    <div class="social-media">
+                        {% include social-media.html %}
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-xl-9 col-lg-9 col-md-12 col-sm-12">
+                <div class="col-12">
+                    <div class="card mb-4">
+                        <div class="card-body">
+                            <h4 class="card-title">{{page.title}}</h4>
+                            <hr>
+                            <p class="card-text">Merhaba, adım Burak soyadım Dündar. Kısaca kendim hakkında sizlere özet geçeceğim. Yaşım 25, Erzurum’da doğdum, Zonguldak’ta büyüdüm.<br><br>Liseden beri teknolojiye, yazılıma, bilgisayara ve web tasarıma ilgim çok büyüktü. Lisedeyken bölümüm Web tasarım ve programlamaydı fakat ben ne yalan söyleyeyim web tasarımı hiç sevmezdim hep programlama ile uğraşırdım. Birgün kendi kendime dedim web tasarımı öğrenmeliyim ve yazılıma biraz ara verip internetten web tasarım ile ilgili bir çok eğitim videoları, setleri izledim. Günlerce uykusuz kaldım birşeyler yapmak için uğraştım ve amacıma sonunda ulaştım.<br><br>Artık web tasarım benim en büyük ilgim oldu, ufak çapta projeler yapmaya çabaladım, uğraştım ve bu ufak projelerimi ilerlettikçe büyük projelere imza attım.<br><br>Daha sonra üniversitede bilgisayar programcılığı bölümünü seçip bu bölümde kendimi geliştirdim. Tekrardan ufak çapta projeler, otomasyonlar yapmaya çalıştım ve başardım da.<br><br>En büyük hayalim çok iyi, saygın bir yazılımcı ve web tasarımcı olmaktı. Sanırsam bunu başaracağıma inanıyorum. Hayatta hiç bir şey karşılıksız değildir. Ne ekersen onu biçersin.<br><br>Bu blog benim küçük projelerimden sadece bir tanesi. Kişisel bloğum ve kendi hakkımda bu kadar bilgi size yeter umarım. Sizde hayalinizin peşinden koşmayı unutmayın.<br><br>Bu yazıyı sıkılmadan okuduğunuz için ayrıca sizlere teşekkür ederim, İyi günler dilerim.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
