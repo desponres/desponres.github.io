@@ -33,9 +33,9 @@ plugins:
   #- jekyll-paginate-v2
   #- jekyll-timeago
 #pagination:
-  e#nabled: true
+  #enabled: true
   #per_page: 6
-  permalink: '/sayfa/:num/'
+  #permalink: '/sayfa/:num/'
   ##title: ' - sayfa :num'
   #limit: 0
   #sort_field: 'date'
