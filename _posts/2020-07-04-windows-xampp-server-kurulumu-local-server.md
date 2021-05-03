@@ -4,6 +4,7 @@ date: 2020-07-04T22:59:36
 author: Burak Dündar
 layout: post
 permalink: /windows-xampp-server-kurulumu-local-server/
+published: true
 categories:
   - Eğitim
   - Video

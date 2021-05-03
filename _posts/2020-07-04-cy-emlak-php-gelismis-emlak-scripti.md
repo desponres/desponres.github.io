@@ -4,6 +4,7 @@ date: 2020-07-04T12:47:31
 author: Burak Dündar
 layout: post
 permalink: /cy-emlak-php-gelismis-emlak-scripti/
+published: true
 categories:
   - CMS
   - PHP

@@ -4,6 +4,7 @@ date: 2020-07-04T02:03:47
 author: Burak Dündar
 layout: post
 permalink: /udemy-ucretsiz-site-acmak-ucretsizsiteacmak-video-egitim-seti-tanitim-videosu/
+published: true
 categories:
   - Eğitim
   - CMS

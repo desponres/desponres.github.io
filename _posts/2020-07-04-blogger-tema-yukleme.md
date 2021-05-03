@@ -4,6 +4,7 @@ date: 2020-07-04T11:27:33
 author: Burak Dündar
 layout: post
 permalink: /blogger-tema-yukleme/
+published: true
 categories:
   - Blogspot
   - CMS

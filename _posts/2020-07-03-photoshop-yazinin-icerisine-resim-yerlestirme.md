@@ -4,6 +4,7 @@ date: 2020-07-03T21:11:50
 author: Burak Dündar
 layout: post
 permalink: /photoshop-yazinin-icerisine-resim-yerlestirme/
+published: true
 categories:
   - Adobe Photoshop
   - Eğitim

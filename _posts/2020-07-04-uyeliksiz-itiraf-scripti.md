@@ -4,6 +4,7 @@ date: 2020-07-04T02:39:15
 author: Burak Dündar
 layout: post
 permalink: /uyeliksiz-itiraf-scripti/
+published: true
 categories:
   - Yazılım
   - PHP

@@ -4,6 +4,7 @@ date: 2020-07-04T11:32:44
 author: Burak Dündar
 layout: post
 permalink: /windows-10-otomatik-guncellemeleri-kapatma/
+published: true
 categories:
   - Windows
   - İşletim Sistemleri

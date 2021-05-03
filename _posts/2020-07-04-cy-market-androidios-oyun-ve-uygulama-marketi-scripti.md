@@ -4,6 +4,7 @@ date: 2020-07-04T12:14:05
 author: Burak Dündar
 layout: post
 permalink: /cy-market-androidios-oyun-ve-uygulama-marketi-scripti/
+published: true
 categories:
   - CMS
   - PHP

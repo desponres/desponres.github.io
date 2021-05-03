@@ -4,6 +4,7 @@ date: 2020-07-04T02:02:37
 author: Burak Dündar
 layout: post
 permalink: /wordpress-site-acmak-ucretsizsiteacmak/
+published: true
 categories:
   - Wordpress
   - CMS

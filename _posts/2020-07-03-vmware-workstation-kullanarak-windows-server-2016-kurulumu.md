@@ -4,6 +4,7 @@ date: 2020-07-03T21:17:34
 author: Burak Dündar
 layout: post
 permalink: /vmware-workstation-kullanarak-windows-server-2016-kurulumu/
+published: true
 categories:
   - Windows
   - Eğitim

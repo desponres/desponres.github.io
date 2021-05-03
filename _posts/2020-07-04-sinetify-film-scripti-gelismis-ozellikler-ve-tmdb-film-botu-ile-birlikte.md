@@ -4,6 +4,7 @@ date: 2020-07-04T12:54:14
 author: Burak Dündar
 layout: post
 permalink: /sinetify-film-scripti-gelismis-ozellikler-ve-tmdb-film-botu-ile-birlikte/
+published: true
 categories:
   - CMS
   - PHP

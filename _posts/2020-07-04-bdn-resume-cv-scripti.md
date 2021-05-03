@@ -4,6 +4,7 @@ date: 2020-07-04T12:00:56
 author: Burak Dündar
 layout: post
 permalink: /bdn-resume-cv-scripti/
+published: true
 categories:
   - CMS
   - PHP

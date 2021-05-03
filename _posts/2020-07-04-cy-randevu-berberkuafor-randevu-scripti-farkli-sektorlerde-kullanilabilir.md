@@ -4,6 +4,7 @@ date: 2020-07-04T12:43:49
 author: Burak Dündar
 layout: post
 permalink: /cy-randevu-berberkuafor-randevu-scripti-farkli-sektorlerde-kullanilabilir/
+published: true
 categories:
   - CMS
   - PHP

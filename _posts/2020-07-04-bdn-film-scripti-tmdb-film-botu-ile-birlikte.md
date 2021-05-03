@@ -4,6 +4,7 @@ date: 2020-07-04T11:46:29
 author: Burak Dündar
 layout: post
 permalink: /bdn-film-scripti-tmdb-film-botu-ile-birlikte/
+published: true
 categories:
   - CMS
   - PHP

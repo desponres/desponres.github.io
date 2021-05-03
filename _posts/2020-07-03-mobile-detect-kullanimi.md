@@ -5,6 +5,7 @@ date: 2020-07-03T21:18:35
 author: Burak Dündar
 layout: post
 permalink: /mobile-detect-kullanimi/
+published: true
 categories:
   - PHP
   - Eğitim

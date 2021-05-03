@@ -4,6 +4,7 @@ date: 2020-07-04T02:07:19
 author: Burak Dündar
 layout: post
 permalink: /udemy-ucretsiz-site-acmak-ucretsizsiteacmak-video-egitim-seti-cikti/
+published: true
 categories:
   - Eğitim
   - Blogspot

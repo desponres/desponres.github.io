@@ -4,6 +4,7 @@ date: 2020-07-04T01:35:07
 author: Burak Dündar
 layout: post
 permalink: /localhost-nedir-localhost-kurulumu/
+published: true
 categories:
   - Yazılım
   - MySQL

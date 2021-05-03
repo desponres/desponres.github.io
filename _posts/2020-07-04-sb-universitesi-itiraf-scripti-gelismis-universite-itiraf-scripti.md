@@ -1,9 +1,10 @@
 ---
-title: SB Üniversitesi İtiraf Scripti | Gelişmiş Üniversite İtiraf Scriptli
+title: SB Üniversitesi İtiraf Scripti | Gelişmiş Üniversite İtiraf Scripti
 date: 2020-07-04T13:00:07
 author: Burak Dündar
 layout: post
-permalink: /sb-universitesi-itiraf-scripti-gelismis-universite-itiraf-scriptli/
+permalink: /sb-universitesi-itiraf-scripti-gelismis-universite-itiraf-scripti/
+published: true
 categories:
   - CMS
   - PHP

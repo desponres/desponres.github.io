@@ -4,6 +4,7 @@ date: 2020-07-04T02:01:21
 author: Burak Dündar
 layout: post
 permalink: /weebly-site-acmak-ucretsizsiteacmak/
+published: true
 categories:
   - Eğitim
   - CMS

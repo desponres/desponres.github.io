@@ -4,6 +4,7 @@ date: 2020-07-03T21:09:49
 author: Burak Dündar
 layout: post
 permalink: /blogumda-ilk-yazim/
+published: true
 categories:
   - Kısa Yazılar
 tags:

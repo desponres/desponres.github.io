@@ -4,6 +4,7 @@ date: 2020-07-04T11:38:32
 author: Burak Dündar
 layout: post
 permalink: /bdn-blog-scripti/
+published: true
 categories:
   - CMS
   - PHP

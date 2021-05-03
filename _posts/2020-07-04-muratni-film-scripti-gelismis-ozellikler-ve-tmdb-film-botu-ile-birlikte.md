@@ -4,6 +4,7 @@ date: 2020-07-04T12:56:40
 author: Burak Dündar
 layout: post
 permalink: /muratni-film-scripti-gelismis-ozellikler-ve-tmdb-film-botu-ile-birlikte/
+published: true
 categories:
   - CMS
   - PHP

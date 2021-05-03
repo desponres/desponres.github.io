@@ -4,6 +4,7 @@ date: 2020-07-08T21:21:34
 author: Burak Dündar
 layout: post
 permalink: /windows-10-gizli-dosyalari-klasorleri-goruntuleme/
+published: true
 categories:
   - Windows
   - İşletim Sistemleri
