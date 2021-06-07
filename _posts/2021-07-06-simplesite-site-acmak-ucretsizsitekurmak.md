@@ -16,4 +16,4 @@ tags:
 ---
 Merhaba arkadaşlar, bu yazımda sizlere ücretsiz bir web sitesi olan SimpleSite servisini kullanarak nasıl ücretsiz bir site açabilirsiniz onu göstereceğim. Gerekli linkler videonun açıklama kısmında verdim, videoyu beğendiyseniz kanalıma abone olabilirsiniz.
 
-<iframe src="https://www.youtube.com/embed/stcFPYZdEg" width="100%" height="450"></iframe>
+<iframe src="https://www.youtube.com/embed/-stcFPYZdEg" width="100%" height="450"></iframe>
