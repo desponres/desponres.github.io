@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://desponres.github.io/sitemap.xml
+Sitemap: https://mburakdndr.github.io/sitemap.xml
